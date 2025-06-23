@@ -2,7 +2,6 @@
 
 An intelligent Sudoku-solving application powered by **Computer Vision**, **CNN-based digit recognition**, and a **backtracking algorithm**. Upload any photo of a Sudoku puzzle and get the fully solved grid in seconds!
 
-![Demo Preview]
 ![solved_grid](https://github.com/user-attachments/assets/ae1c2047-7a59-4dbc-9a0f-7497887a1259)
 
 ---
