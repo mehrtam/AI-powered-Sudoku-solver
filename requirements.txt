@@ -1,4 +1,5 @@
-gradio
-numpy
-opencv-python
-tensorflow
+numpy>=1.23
+opencv-python>=4.7
+tensorflow>=2.10
+gradio>=4.0
+scikit-learn>=1.2
