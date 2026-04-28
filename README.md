@@ -2,7 +2,7 @@
 
 End-to-end pipeline that takes a photo of a Sudoku puzzle and returns the solved grid. Combines computer vision (grid detection, perspective warp), deep learning (CNN digit recognition with confidence-thresholded acceptance), and classical AI search (backtracking with constraint propagation).
 
-**🌐 [Live demo on Hugging Face Spaces](https://huggingface.co/spaces/mehrta/ai-sudoku-solver)**
+
 
 ## Pipeline
 
